@@ -1,0 +1,2 @@
+Implemention of the k-Nearest Neighbors (kNN) algorithm for classification on the MNIST dataset, consisting of handwritten digits.
+The script includes functions to load the dataset, split it into training and test sets, and run the kNN classifier with varying values of k and training set sizes to evaluate performance.
